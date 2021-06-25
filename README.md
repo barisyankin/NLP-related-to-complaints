@@ -5,19 +5,19 @@ I worked at sikayetvar.com to get the titles, complaints and links of the compla
 
 **Installing / Getting started**
 
-import requests
+requests
 
-import urllib.parse
+urllib.parse
 
-import random
+random
 
 from bs4 import BeautifulSoup
 
-import re
+re
 
-import pandas as pd
+pandas as pd
 
-from datetime import date
+datetime import date
 
 
 **You can find the code and csv file of my project on data extraction here.**
